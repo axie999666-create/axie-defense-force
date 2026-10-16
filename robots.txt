@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://defense.republic-of-axie.org/sitemap.xml
